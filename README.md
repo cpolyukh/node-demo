@@ -21,3 +21,10 @@ To switch back to the master branch, execute this command:
 ```bash
 $ git checkout master
 ```
+
+
+telnet 128.95.155.197 80
+GET / HTTP/1.1
+Host: www.washington.edu
+[return]
+[return]
