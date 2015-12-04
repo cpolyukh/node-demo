@@ -18,6 +18,7 @@
   "homepage": "https://github.com/drstearns/node-demo#readme",
   "dependencies": {
     "body-parser": "^1.14.1",
+    "express": "^4.13.3",
     "sqlite3": "^3.1.1"
   }
 }
